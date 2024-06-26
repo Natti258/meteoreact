@@ -44,6 +44,8 @@ function getWeatherIcon(weatherCode) {
     case "03n":
     case "04d":
     case "04n":
+    case "05d":
+    case "05n":
       return "https://s9.gifyu.com/images/SUvP7.gif"; // Облачно
     case "09d":
     case "09n":
